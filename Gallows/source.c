@@ -13,7 +13,7 @@
 
 int main()
 {
-	srand(time(unsigned(NULL)));
+	srand((unsigned int)time(NULL));
 	
 	printf("\n");
 

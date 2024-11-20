@@ -1,5 +1,5 @@
 # ninja log v6
-4023	4945	7538247046651332	C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/Gallows.exe	259515f25f26817d
+618	1458	7538251145197982	C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/Gallows.exe	c37d7f6c09cb984a
 92	6761	7538243450729812	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RandomWordsFunctions.cpp.obj	eb67f322c83244f4
 27	6523	7538243450129677	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminSpace.cpp.obj	59fb85043649135e
 34	3816	7538247006654728	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsMain.cpp.obj	5fbc1a1ba5a52b2e
@@ -7,8 +7,17 @@
 43	2120	7538243450279652	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminWordsManagment.cpp.obj	3cd841271f357f5f
 50	4023	7538247006804743	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RankingSystemFunctions.cpp.obj	5e84481745b5959a
 14	1302	7538247006504741	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsFunctions.cpp.obj	1c92b4e021beab0e
+48	617	7538251139497977	CMakeFiles/Gallows.dir/app_icon.rc.obj	e26ca2509a293cbe
 1766	7495	7538243467580105	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/SourceFunctions.cpp.obj	608fa2bd4a63d4b6
 8	1460	7538243449979654	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminRankingSystem.cpp.obj	4af804b2cbc12b13
-30	938	7538251137847969	build.ninja	b98bd12bb92ef3ad
-48	617	7538251139497977	CMakeFiles/Gallows.dir/app_icon.rc.obj	e26ca2509a293cbe
-618	1458	7538251145197982	C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/Gallows.exe	c37d7f6c09cb984a
+30	938	7538252543255104	build.ninja	b98bd12bb92ef3ad
+21	1342	7538252612950236	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminRankingSystem.c.obj	e31586137720c8cd
+64	1419	7538252613400271	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminWordsManagment.c.obj	455e0fdfd007f039
+82	1675	7538252613550233	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsFunctions.c.obj	4b80fc1ba9fd69cc
+99	4350	7538252613700236	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsMain.c.obj	ab2d8650a496e822
+117	4590	7538252614000228	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RandomWordsFunctions.c.obj	a3c19df3705731f3
+46	4596	7538252613250235	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminSpace.c.obj	876a3234f6ec5cb4
+1420	5274	7538252626974759	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/SourceFunctions.c.obj	8ab7d405c0f9819b
+1347	5411	7538252626224749	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RankingSystemFunctions.c.obj	a6c46f7b925f80d9
+32	1600	7538253516328210	CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/source.c.obj	71b3029f6db03ed2
+1601	2230	7538253532098040	C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/Gallows.exe	7d96e0b6101b9cfd

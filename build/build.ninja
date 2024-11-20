@@ -44,65 +44,56 @@ cmake_ninja_workdir = C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/
 
 build cmake_object_order_depends_target_Gallows: phony || .
 
-build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminRankingSystem.cpp.obj: CXX_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/AdminRankingSystem.cpp || cmake_object_order_depends_target_Gallows
-  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\AdminRankingSystem.cpp.obj.d
-  FLAGS = -std=gnu++17
+build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminRankingSystem.c.obj: C_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/AdminRankingSystem.c || cmake_object_order_depends_target_Gallows
+  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\AdminRankingSystem.c.obj.d
   INCLUDES = -I"C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/build/../Gallows"
   OBJECT_DIR = CMakeFiles\Gallows.dir
   OBJECT_FILE_DIR = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows
 
-build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminSpace.cpp.obj: CXX_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/AdminSpace.cpp || cmake_object_order_depends_target_Gallows
-  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\AdminSpace.cpp.obj.d
-  FLAGS = -std=gnu++17
+build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminSpace.c.obj: C_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/AdminSpace.c || cmake_object_order_depends_target_Gallows
+  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\AdminSpace.c.obj.d
   INCLUDES = -I"C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/build/../Gallows"
   OBJECT_DIR = CMakeFiles\Gallows.dir
   OBJECT_FILE_DIR = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows
 
-build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminWordsManagment.cpp.obj: CXX_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/AdminWordsManagment.cpp || cmake_object_order_depends_target_Gallows
-  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\AdminWordsManagment.cpp.obj.d
-  FLAGS = -std=gnu++17
+build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminWordsManagment.c.obj: C_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/AdminWordsManagment.c || cmake_object_order_depends_target_Gallows
+  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\AdminWordsManagment.c.obj.d
   INCLUDES = -I"C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/build/../Gallows"
   OBJECT_DIR = CMakeFiles\Gallows.dir
   OBJECT_FILE_DIR = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows
 
-build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsFunctions.cpp.obj: CXX_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/GallowsFunctions.cpp || cmake_object_order_depends_target_Gallows
-  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\GallowsFunctions.cpp.obj.d
-  FLAGS = -std=gnu++17
+build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsFunctions.c.obj: C_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/GallowsFunctions.c || cmake_object_order_depends_target_Gallows
+  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\GallowsFunctions.c.obj.d
   INCLUDES = -I"C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/build/../Gallows"
   OBJECT_DIR = CMakeFiles\Gallows.dir
   OBJECT_FILE_DIR = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows
 
-build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsMain.cpp.obj: CXX_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/GallowsMain.cpp || cmake_object_order_depends_target_Gallows
-  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\GallowsMain.cpp.obj.d
-  FLAGS = -std=gnu++17
+build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsMain.c.obj: C_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/GallowsMain.c || cmake_object_order_depends_target_Gallows
+  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\GallowsMain.c.obj.d
   INCLUDES = -I"C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/build/../Gallows"
   OBJECT_DIR = CMakeFiles\Gallows.dir
   OBJECT_FILE_DIR = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows
 
-build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RandomWordsFunctions.cpp.obj: CXX_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/RandomWordsFunctions.cpp || cmake_object_order_depends_target_Gallows
-  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\RandomWordsFunctions.cpp.obj.d
-  FLAGS = -std=gnu++17
+build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RandomWordsFunctions.c.obj: C_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/RandomWordsFunctions.c || cmake_object_order_depends_target_Gallows
+  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\RandomWordsFunctions.c.obj.d
   INCLUDES = -I"C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/build/../Gallows"
   OBJECT_DIR = CMakeFiles\Gallows.dir
   OBJECT_FILE_DIR = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows
 
-build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RankingSystemFunctions.cpp.obj: CXX_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/RankingSystemFunctions.cpp || cmake_object_order_depends_target_Gallows
-  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\RankingSystemFunctions.cpp.obj.d
-  FLAGS = -std=gnu++17
+build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RankingSystemFunctions.c.obj: C_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/RankingSystemFunctions.c || cmake_object_order_depends_target_Gallows
+  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\RankingSystemFunctions.c.obj.d
   INCLUDES = -I"C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/build/../Gallows"
   OBJECT_DIR = CMakeFiles\Gallows.dir
   OBJECT_FILE_DIR = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows
 
-build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/SourceFunctions.cpp.obj: CXX_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/SourceFunctions.cpp || cmake_object_order_depends_target_Gallows
-  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\SourceFunctions.cpp.obj.d
-  FLAGS = -std=gnu++17
+build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/SourceFunctions.c.obj: C_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/SourceFunctions.c || cmake_object_order_depends_target_Gallows
+  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\SourceFunctions.c.obj.d
   INCLUDES = -I"C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/build/../Gallows"
   OBJECT_DIR = CMakeFiles\Gallows.dir
   OBJECT_FILE_DIR = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows
 
-build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/source.cpp.obj: CXX_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/source.cpp || cmake_object_order_depends_target_Gallows
-  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\source.cpp.obj.d
-  FLAGS = -std=gnu++17
+build CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/source.c.obj: C_COMPILER__Gallows_unscanned_ C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows/source.c || cmake_object_order_depends_target_Gallows
+  DEP_FILE = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows\source.c.obj.d
   INCLUDES = -I"C:/Users/zrajrob/OneDrive - Ericsson/Documents/Gallows/Gallows/build/../Gallows"
   OBJECT_DIR = CMakeFiles\Gallows.dir
   OBJECT_FILE_DIR = CMakeFiles\Gallows.dir\C_\Users\zrajrob\OneDrive_-_Ericsson\Documents\Gallows\Gallows\Gallows
@@ -121,7 +112,7 @@ build CMakeFiles/Gallows.dir/app_icon.rc.obj: RC_COMPILER__Gallows_unscanned_ C$
 #############################################
 # Link the executable C:\Users\zrajrob\OneDrive - Ericsson\Documents\Gallows\Gallows\Gallows.exe
 
-build C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows.exe: CXX_EXECUTABLE_LINKER__Gallows_ CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminRankingSystem.cpp.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminSpace.cpp.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminWordsManagment.cpp.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsFunctions.cpp.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsMain.cpp.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RandomWordsFunctions.cpp.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RankingSystemFunctions.cpp.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/SourceFunctions.cpp.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/source.cpp.obj CMakeFiles/Gallows.dir/app_icon.rc.obj
+build C$:/Users/zrajrob/OneDrive$ -$ Ericsson/Documents/Gallows/Gallows/Gallows.exe: C_EXECUTABLE_LINKER__Gallows_ CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminRankingSystem.c.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminSpace.c.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/AdminWordsManagment.c.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsFunctions.c.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/GallowsMain.c.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RandomWordsFunctions.c.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/RankingSystemFunctions.c.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/SourceFunctions.c.obj CMakeFiles/Gallows.dir/C_/Users/zrajrob/OneDrive_-_Ericsson/Documents/Gallows/Gallows/Gallows/source.c.obj CMakeFiles/Gallows.dir/app_icon.rc.obj
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Gallows.dir
   POST_BUILD = cd .

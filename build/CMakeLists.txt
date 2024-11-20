@@ -14,7 +14,7 @@ include_directories(
 )
 
 # Add source files
-file(GLOB SOURCES ../Gallows/*.cpp)
+file(GLOB SOURCES ../Gallows/*.c)
 
 # Add resource file (icon)
 if(WIN32)
